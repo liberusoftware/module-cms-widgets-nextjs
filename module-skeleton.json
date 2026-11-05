@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-widgets-nextjs",
+  "capabilityKey": "liberusoftware/module-cms-widgets",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-cms-widgets-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/cms/nextjs/cms-widgets.md",
+  "presentationPlan": "projects/cms/nextjs/cms-widgets.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
